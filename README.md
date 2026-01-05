@@ -1,1 +1,1 @@
-
+This respository is a project to automate talent sourcing process by building a meachine learning pipeline. The pipeline predicts how "fit" a candiate is for a specific role and rank the candiates accordingly. It will use the candiate data (job title, and connections) to generate a fitness scores.
